@@ -108,7 +108,7 @@ p {
 }
 
 
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 400px) {
 
     .container {
         display: flex;
